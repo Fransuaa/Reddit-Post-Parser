@@ -12,6 +12,7 @@ project/metals.sbt
 .tasty
 
 # sbt
+project/build.properties
 project/project/
 project/target/
 target/
